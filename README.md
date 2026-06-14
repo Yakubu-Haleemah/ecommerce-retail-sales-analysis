@@ -57,5 +57,6 @@ Created an interactive Power BI dashboard featuring:
 ## Author
 
 Yakubu Haleemah
+
 SQL / Power BI / Data Analytics
 
