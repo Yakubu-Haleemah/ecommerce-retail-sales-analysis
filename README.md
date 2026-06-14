@@ -6,9 +6,15 @@ This project analyzes retail e-commerce transactions using SQL and Power BI. The
 
 ## Tools Used
 
-* PostgreSQL
-* SQL
-* Power BI
+* PostgreSQL (Database management system)
+* SQL (Data querying and analysis)
+* Power BI (Data visualization and dashboard creation)
+
+## Skills Demonstrated
+* Data cleaning and transformation
+* Exploratory data analysis (EDA)
+* Data visualization
+* Business insight generation
 
 ## Project Workflow
 
@@ -37,7 +43,7 @@ Created an interactive Power BI dashboard featuring:
 * Top Countries by Revenue
 * Top Products by Revenue
 
-### Key Insights
+## Key Insights
 
 * Total Revenue: $9.75M
 * Total Orders: 541.9K
@@ -58,5 +64,5 @@ Created an interactive Power BI dashboard featuring:
 
 Yakubu Haleemah
 
-SQL / Power BI / Data Analytics
+SQL | Power BI | Data Analytics
 
